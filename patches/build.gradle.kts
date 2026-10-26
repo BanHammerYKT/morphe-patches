@@ -13,11 +13,7 @@ patches {
     }
 }
 
-kotlin {
-    compilerOptions {
-        freeCompilerArgs.add("-Xcontext-parameters")
-    }
-}
+kotlin { compilerOptions { freeCompilerArgs.add("-Xcontext-parameters") } }
 
 // Separate configuration so gson is available at runtime for the
 // generatePatchesList task but never bundled into the APK.
@@ -39,7 +35,5 @@ tasks {
     }
 
     // Used by gradle-semantic-release-plugin.
-    publish {
-        dependsOn("generatePatchesList")
-    }
+    publish { dependsOn("generatePatchesList") }
 }

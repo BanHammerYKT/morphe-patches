@@ -9,15 +9,15 @@
       "dependencies": [],
       "compatiblePackages": [
         {
-          "packageName": "ru.rutube.app",
-          "name": "RuTube",
+          "packageName": "ru.rutube.app.tv",
+          "name": "RUTUBE",
           "description": null,
           "apkFileType": "APK",
           "appIconColor": "#7B2FF7",
           "signatures": null,
           "targets": [
             {
-              "version": "31.14.2-rustore",
+              "version": "31.19.0.TV-rustore",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,
@@ -42,15 +42,15 @@
       "dependencies": [],
       "compatiblePackages": [
         {
-          "packageName": "ru.rutube.app",
-          "name": "RuTube",
+          "packageName": "ru.rutube.app.tv",
+          "name": "RUTUBE",
           "description": null,
           "apkFileType": "APK",
           "appIconColor": "#7B2FF7",
           "signatures": null,
           "targets": [
             {
-              "version": "31.14.2-rustore",
+              "version": "31.19.0.TV-rustore",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,
@@ -75,15 +75,15 @@
       "dependencies": [],
       "compatiblePackages": [
         {
-          "packageName": "ru.rutube.app",
-          "name": "RuTube",
+          "packageName": "ru.rutube.app.tv",
+          "name": "RUTUBE",
           "description": null,
           "apkFileType": "APK",
           "appIconColor": "#7B2FF7",
           "signatures": null,
           "targets": [
             {
-              "version": "31.14.2-rustore",
+              "version": "31.19.0.TV-rustore",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,
@@ -108,15 +108,15 @@
       "dependencies": [],
       "compatiblePackages": [
         {
-          "packageName": "ru.rutube.app",
-          "name": "RuTube",
+          "packageName": "ru.rutube.app.tv",
+          "name": "RUTUBE",
           "description": null,
           "apkFileType": "APK",
           "appIconColor": "#7B2FF7",
           "signatures": null,
           "targets": [
             {
-              "version": "31.14.2-rustore",
+              "version": "31.19.0.TV-rustore",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,
@@ -141,15 +141,15 @@
       "dependencies": [],
       "compatiblePackages": [
         {
-          "packageName": "ru.rutube.app",
-          "name": "RuTube",
+          "packageName": "ru.rutube.app.tv",
+          "name": "RUTUBE",
           "description": null,
           "apkFileType": "APK",
           "appIconColor": "#7B2FF7",
           "signatures": null,
           "targets": [
             {
-              "version": "31.14.2-rustore",
+              "version": "31.19.0.TV-rustore",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,
